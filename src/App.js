@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h3>Qutbuddin Khan</h3>
         <h4>(+91) 9616279623</h4>
+        <h4>Email::== qdkhan@live.com</h4>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
