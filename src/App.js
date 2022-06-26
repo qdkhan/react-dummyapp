@@ -10,6 +10,7 @@ function App() {
         <h4>(+91) 9616279623</h4>
         <h4>Email::== qdkhan@live.com</h4>
         <h5>House No. 65, Village Deoria Jangali, Husainavbad Grint <br/> Deoria Jangali , Utraula Balrampur UP</h5>
+        <p>Hello Everyone in The word !!! </p>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
