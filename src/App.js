@@ -11,6 +11,8 @@ function App() {
         <h4>Email::== qdkhan@live.com</h4>
         <h5>House No. 65, Village Deoria Jangali, Husainavbad Grint <br/> Deoria Jangali , Utraula Balrampur UP</h5>
         <p>Hello Everyone in The word !!! </p>
+        <p>Humaid Ahmad </p>
+        <p>Hamida Fatima </p>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
